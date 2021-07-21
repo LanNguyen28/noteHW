@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteHW</string>
+
+    <string name="text">Ghi chú</string>
+    <string name="textHead">Tiêu đề </string>
+    <string name="title_activity_main2">Ghi chép</string>
+    <string name="action_reset">Reset</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
